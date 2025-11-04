@@ -28,15 +28,6 @@ Bonjour ! Je suis Christien, passionné par le développement et les nouvelles t
   </a>
   <br/>
   
-  <!-- GitHub -->
-  <a href="https://github.com/MIGHERIChristien">
-    <img src="https://img.shields.io/badge/💻_GITHUB-Mes_Projets-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <br/>
   
-  <!-- LinkedIn (si vous en avez un) -->
-  <a href="[VOTRE-LINKEDIN]">
-    <img src="https://img.shields.io/badge/💼_LINKEDIN-Connectons_nous-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
 </p>
 
